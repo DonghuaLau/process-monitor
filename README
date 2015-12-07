@@ -1,1 +1,6 @@
-Process monitor.
+== Process monitor ==
+
+1.add process-monitor.sh to crontab
+2.change path of config file in process-monitor.sh
+3.set the monitored processes in config file
+
